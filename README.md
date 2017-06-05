@@ -8,6 +8,8 @@
 ## OpenCV
 
 + 2.4.13
++ install : http://webnautes.tistory.com/557
++ install arm board : http://ausome.tistory.com/4
 
 ## Data Set
 
@@ -15,8 +17,9 @@
 
 ## Cropping Picture
 
-+ https://github.com/wavexx/facedetect
-
++ create_csv.py
++ crop_face.py
++ facedetect : https://github.com/wavexx/facedetect
 + sudo apt-get install imagemagick
 
     ```
