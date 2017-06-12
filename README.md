@@ -10,6 +10,7 @@
 + 2.4.13
 + install : http://webnautes.tistory.com/557
 + install arm board : http://ausome.tistory.com/4
+  + output : opencv/
 
 ## Data Set
 
@@ -32,3 +33,6 @@
       done
     done
     ```
+## Result
+
+![Alt text](https://user-images.githubusercontent.com/16299919/27033032-6ed79c32-4fb2-11e7-813a-11df51cf0163.png)
